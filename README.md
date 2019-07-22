@@ -1,2 +1,2 @@
-# Matrices_operations
-Matrices operations
+# Matrix_operations
+Matrix operations
