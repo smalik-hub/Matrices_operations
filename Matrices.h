@@ -2,7 +2,7 @@
  * Matrices.h
  *
  *  Created on: 2018-02-23
- *      Author: sm2016
+ *      Author: Shahzaib Malik
  */
 
 #ifndef MATRICES_MATRICES_H_
